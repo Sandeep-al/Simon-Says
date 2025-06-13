@@ -21,4 +21,5 @@ A fun and interactive Simon Says game built with HTML, CSS, and JavaScript.
 ## 👨‍💻 About This Project
 
 This project was inspired by a Simon game tutorial, but about half the code and several features (like highest score, full sequence flashing, and input blocking) were written and designed by me.
+[![GitHub Pages](https://img.shields.io/badge/Play%20Now-Live%20Demo-green?style=for-the-badge)](https://sandeep-al.github.io/Simon-Says/)
 
